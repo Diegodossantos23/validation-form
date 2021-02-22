@@ -23,13 +23,8 @@ const FormValidation = () => {
             company:"",
             nacionality:"",
             phone: "",
-            email: "",
-            
-            
+            email: "",          
          })
-
-        
-            
 
 const handleInputChange = (event) => {
             const { value, name } = event.target;
@@ -56,14 +51,9 @@ const handleInputChange = (event) => {
         })
         .catch(function(error){
             console.log(error)
-        })
-
-       
+        })  
     },[])
     
-
-
-
     return(
         < FormContainer onSubmit={onSubmitForm}>
             <h2>React Form</h2>

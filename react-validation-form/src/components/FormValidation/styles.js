@@ -23,10 +23,7 @@ export const FormContainer = styled.form`
     input{
         height: 30px;
         width: 270PX;
-
     }
-
-
 
     button{
         height: 50px;
