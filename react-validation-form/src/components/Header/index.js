@@ -5,7 +5,7 @@ import LogoSynvia from '../../assets/logo.png'
 const Header = () => {
     return(
         <HeaderContainer>
-            <img src={LogoSynvia}/>
+            <img src={LogoSynvia} alt="logo"/>
         </HeaderContainer>
     )
 }
