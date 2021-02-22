@@ -17,7 +17,7 @@
 
 **Tech utilizada:**
 - React.js
-- 
+
 **Dependências**
 - styled-compoonents
 - axios
