@@ -22,6 +22,10 @@
 - styled-compoonents
 - axios
 
+**Como executar a aplicação:**
+- npm install
+- npm install styled-components
+
 **Imagens do projeto:**
 
 <div align="center">
