@@ -19,12 +19,12 @@
 - React.js
 
 **Dependências**
-- styled-compoonents
-- axios
+- styled-compoonents.
+- axios.
 
 **Como executar a aplicação:**
-- npm install
-- npm install styled-components
+- npm install.
+- npm install styled-components.
 
 **Imagens do projeto:**
 
