@@ -1,0 +1,1 @@
+export const BrowserIcon = "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Fdocument%2Bform%2Blist%2Bsurvey%2Btracklist%2Bicon-1320167912093087410%2F&psig=AOvVaw0I4cY0kbLwa6-NPjEdUY6o&ust=1614104433472000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCcrOON_u4CFQAAAAAdAAAAABAD"
