@@ -1,7 +1,7 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState,} from 'react'
 import { FormContainer } from './styles'
-import axios from 'axios'
-import { BASE_URL } from '../../constants/url';
+// import axios from 'axios'
+// import { BASE_URL } from '../../constants/url';
 
 export const useForm = (initialValues) => {
     const [form, setForm] = useState(initialValues);
@@ -30,29 +30,29 @@ const handleInputChange = (event) => {
             const { value, name } = event.target;
         
             onChange(value, name);
-        
       };
     
-      const onSubmitForm = (event) => {
+        const onSubmitForm = (event) => {
         event.preventDefault();
         
         const saveDataInJSON = JSON.stringify(form)
         console.log( "Its JSON Now!", saveDataInJSON );
-    
         
-    };
+    }; 
 
-    useEffect(()=> {
-            axios.get(BASE_URL)
-            
-        .then((response) => {
-            console.log("dados da requisiçao",response.data)
-            onChange(response.data)
-        })
-        .catch(function(error){
-            console.log(error)
-        })  
-    },[])
+// os dados da requisição estao chegando
+//     useEffect(()=> {
+    
+//     axios.get(BASE_URL)
+    
+//     .then((response) => {
+//         console.log("dados da requisiçao",response.data)
+//         onChange(response.data)
+//     })
+//     .catch( (error) =>{
+//         console.log(error)
+//     })
+// },[])
     
     return(
         < FormContainer onSubmit={onSubmitForm}>
@@ -130,5 +130,5 @@ const handleInputChange = (event) => {
         </ FormContainer>
     )
 
-}
+    }
 export default FormValidation
