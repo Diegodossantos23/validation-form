@@ -47,7 +47,7 @@ const handleInputChange = (event) => {
             
         .then((response) => {
             console.log("dados da requisiçao",response.data)
-            response.data.map(onChange(response.data))
+            onChange(response.data)
         })
         .catch(function(error){
             console.log(error)
