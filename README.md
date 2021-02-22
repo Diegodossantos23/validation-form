@@ -14,7 +14,14 @@
 
 **Link do projeto:**
 - https://aplicacao-react-1au2pkg4o-diegodossantos23.vercel.app/
-- 
+
+**Tech utilizada:**
+- React
+
+**Dependências**
+- styled-compoonents
+- axios
+
 **Imagens do projeto:**
 
 <div align="center">
