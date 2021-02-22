@@ -12,6 +12,9 @@
 - preencher o formulario assim que a aplicação é carregada
 - Novo campo com a media mensal da pontuação total de cada mes
 
+**Link do projeto:**
+- https://aplicacao-react-1au2pkg4o-diegodossantos23.vercel.app/
+- 
 **Imagens do projeto:**
 
 <div align="center">
