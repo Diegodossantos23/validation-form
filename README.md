@@ -16,9 +16,8 @@
 - https://aplicacao-react-1au2pkg4o-diegodossantos23.vercel.app/
 
 **Tech utilizada:**
-</br>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank">
-
+- React.js
+- 
 **Dependências**
 - styled-compoonents
 - axios
