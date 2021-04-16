@@ -53,7 +53,7 @@ Ao clicar em "enviar" ao atualizar a pagína o formulário sera preenchido com o
 <p align="center">
  
   ![BACKGROUND](https://github.com/Diegodossantos23/teste-tecnico/blob/main/assets/react-form.png?raw=true)
-  ![BACKGROUND](https://github.com/Diegodossantos23/teste-tecnico/blob/main/assets/react-form-mobile-screen.png?raw=true)  
+
 </p>
 
 ## 🔨 Tecnologias
