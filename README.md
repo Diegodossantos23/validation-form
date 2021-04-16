@@ -1,4 +1,4 @@
-# teste-tecnico
+# validation-form
 
 **O que funciona:**
 - A aplicação recebe os dados e salva em JSON.
